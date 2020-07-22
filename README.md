@@ -123,3 +123,7 @@ Now that we are finished, we can run the *delete-az-storage-account.sh* bash scr
 ```
 
 If the script ran successfully, it will return back the message *The script has deleted the Azure Resources*.
+
+## Disclaimer
+
+Temporary switch to non-main branch.
